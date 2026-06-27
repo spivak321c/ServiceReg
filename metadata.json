@@ -1,0 +1,6 @@
+{
+  "name": "Event Registration",
+  "description": "A simple event registration web app that issues QR code tickets via email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
